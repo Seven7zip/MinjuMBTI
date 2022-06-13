@@ -89,7 +89,7 @@ void printresult(const std::vector<int>& scores)
 }
 int main()
 {
-	cout << "민갤MBTI Ver 1.0" << endl << "위 프로그램은 GPL 라이선스에 따라 배포됩니다." << endl;
+	cout << "민갤MBTI Ver 1.01" << endl << "위 프로그램은 GPL 라이선스에 따라 배포됩니다." << endl;
 	cout << "시작하려면 엔터키를 누르시오" << endl;
 	getchar();
 	system("clear");
@@ -114,7 +114,7 @@ int main()
 		하관 갤러리 NSFP
 		루리웹 NMAU)";
 	cout << chamgo << endl;
-
+	getchar();
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
